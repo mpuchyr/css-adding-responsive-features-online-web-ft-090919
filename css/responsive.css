@@ -64,6 +64,9 @@
     display: none;
   }
 
+  #navbar {
+    display: none;
+  }
 
   #navbar nav a.menu-icon {
     display: block;
